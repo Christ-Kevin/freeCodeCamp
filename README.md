@@ -1,7 +1,7 @@
 # freeCodeCampSurveyForm
 
 # Overview
-This project is the solution of the challenge in the following link [https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form] the author of the challenge is [freecodecamp.org] .
+This project is the solution of the challenge in the following link [https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form] the author of the challenge is [https://www.freecodecamp.org/] .
 
 ## What i learned
 I learned how the DOM of a survey form is builded
