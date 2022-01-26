@@ -9,7 +9,7 @@ i learned how the DOM of a survey form is builded
 4. there are different types of labels and div tags can be used to group labels from different sections(not a tag in this case) of a html document
 5. a label tag can be descripted with a select tag and can also provide inputs, textareas and options
 
-##Interesting codes
+## Interesting codes
 i learned new stuff with these CSSs
 ````
 input[type="submit"]{}
